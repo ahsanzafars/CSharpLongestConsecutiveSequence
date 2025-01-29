@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj": {}
+    "C:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj": {}
   },
   "projects": {
-    "c:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj": {
+    "C:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj",
+        "projectUniqueName": "C:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj",
         "projectName": "C#LongestConsecutiveSequence",
-        "projectPath": "c:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj",
+        "projectPath": "C:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence.csproj",
         "packagesPath": "C:\\Users\\Ahsan Zafar\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\obj\\",
+        "outputPath": "C:\\Code\\CSharp\\C#LongestConsecutiveSequence\\C#LongestConsecutiveSequence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahsan Zafar\\AppData\\Roaming\\NuGet\\NuGet.Config"
