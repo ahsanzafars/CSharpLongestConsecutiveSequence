@@ -12,3 +12,4 @@ c:\Code\CSharp\C#LongestConsecutiveSequence\C#LongestConsecutiveSequence\obj\Deb
 c:\Code\CSharp\C#LongestConsecutiveSequence\C#LongestConsecutiveSequence\obj\Debug\net9.0\C#LongestConsecutiveSequence.pdb
 c:\Code\CSharp\C#LongestConsecutiveSequence\C#LongestConsecutiveSequence\obj\Debug\net9.0\C#LongestConsecutiveSequence.genruntimeconfig.cache
 c:\Code\CSharp\C#LongestConsecutiveSequence\C#LongestConsecutiveSequence\obj\Debug\net9.0\ref\C#LongestConsecutiveSequence.dll
+c:\Code\CSharp\C#LongestConsecutiveSequence\C#LongestConsecutiveSequence\obj\Debug\net9.0\C#LongestConsecutiveSequence.sourcelink.json
