@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#LongestConsecutiveSequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+763b59847580556d143b1c1828b14f86bdce6777")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+535f34937cdc4379e9b11e16a2f76cbc45b5b756")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#LongestConsecutiveSequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#LongestConsecutiveSequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
